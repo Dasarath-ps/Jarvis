@@ -1,0 +1,14 @@
+#virtual env
+menv/
+#pycharm
+.idea/
+#ignore all .py files
+*.py
+#But keep the jarvis.py file
+!jarvis.py
+#ignore audio files
+*.wav
+#ignore python cache files
+__pycache__/
+*.pyc
+
